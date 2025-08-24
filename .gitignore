@@ -52,3 +52,11 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+*.bin
+/.vs/eClaim.ClaimService/DesignTimeBuild/*.v2
+FileContentIndex
+applicationhost.config
+.futdcache.v2
+.suo
+DocumentLayout.backup.json
+DocumentLayout.json
